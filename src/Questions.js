@@ -59,7 +59,7 @@ const Questions = [
         Options: ["vote and join a civic group", "all of these answers","give an elected official your opinion on an issue and join a community group","write to a newspaper and call Senators and Representatives"]
     },
     {
-        Question: "What is the capital of the Unites States?",
+        Question: "What is the capital of the United States?",
         CorrectAnswer: "Washington,D.C",
         Options: ["New York,NY","Philadelphia,PA","Boston,MA","Washington,D.C"]
     },
