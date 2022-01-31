@@ -82,6 +82,21 @@ const Questions = [
         Question: "What did Martin Luther King, Jr. Do",
         CorrectAnswer: "fought for civil rights",
         Options: ["ran for President of the United States","fought for civil rights","fought for women's suffrage","became a U.S. Senator"]
+    },
+    {
+        Question: "Who lived in America before the Europeans arrived?",
+        CorrectAnswer: "American Indians",
+        Options: ["no one","Canadians","American Indians","Floridians"]
+    },
+    {
+        Question: "There were 13 original states. Name three.",
+        CorrectAnswer: "Maryland, Virginia, and North Carolina",
+        Option: ["Washington, Oregon, and California","Maryland, Virginia, and North Carolina","New York, Kentucky, and Georgia","Virginia, North Carolina, and Florida"]
+    },
+    {
+        Question: 'Who is the “Father of Our Country”',
+        CorrectAnswer: "George Washington",
+        Option: ["Patrick Henry","George Washington","Abraham Lincoln","Thomas Jefferson"]
     }
 ]
 
