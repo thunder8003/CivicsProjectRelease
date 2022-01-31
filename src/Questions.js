@@ -91,12 +91,12 @@ const Questions = [
     {
         Question: "There were 13 original states. Name three.",
         CorrectAnswer: "Maryland, Virginia, and North Carolina",
-        Option: ["Washington, Oregon, and California","Maryland, Virginia, and North Carolina","New York, Kentucky, and Georgia","Virginia, North Carolina, and Florida"]
+        Options: ["Washington, Oregon, and California","Maryland, Virginia, and North Carolina","New York, Kentucky, and Georgia","Virginia, North Carolina, and Florida"]
     },
     {
         Question: 'Who is the “Father of Our Country”',
         CorrectAnswer: "George Washington",
-        Option: ["Patrick Henry","George Washington","Abraham Lincoln","Thomas Jefferson"]
+        Options: ["Patrick Henry","George Washington","Abraham Lincoln","Thomas Jefferson"]
     }
 ]
 
